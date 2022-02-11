@@ -1,0 +1,30 @@
+:root {
+    --TitleSize: 40px;
+    --Titleheight: 75px;
+    --SubTitle: 16px;
+    --Textsize: 14px;
+    --InnerTitle: 18px;
+}
+:root {
+    --PrimaryColor: #fed136;
+    --SecendaryColor: #222222;
+    --TextColor: #777777;
+    --BgColor: #f7f7f7;
+}
+
+/*header*/
+:root {
+    --HeaderHeight: 40px 0;
+}
+
+/*sectionpadding*/
+:root {
+    --SectionPadding: 115px 0;
+}
+
+/*fontfamily*/
+:root {
+    --subfont: 'Droid Serif Regular';
+    --mainfont: 'Montserrat', sans-serif;
+    --textfont: 'Roboto Slab', serif;
+}
